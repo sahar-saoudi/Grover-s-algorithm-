@@ -8,4 +8,4 @@ Here's what each function does :
 - createMCXForClause : Creates a controlled-X (MCX) gate for a given CNF clause.
 - createMCZGate : Creates a controlled-Z (MCZ) gate with the specified number of control qubits.
 
-The tests_grover.ipynb shows the results of 2 SATs.
+The tests_grover.ipynb file shows the results of 2 SATs.
