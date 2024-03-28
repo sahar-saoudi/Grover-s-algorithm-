@@ -9,5 +9,6 @@ Here's what each function does :
 - createMCZGate : Creates a controlled-Z (MCZ) gate with the specified number of control qubits.
 
 The tests_grover.ipynb file shows the results of 2 SATs.
+The pdf file shows a detailed report about the project.
 
 ©: Sahar Saoudi, Henri-Louis Charbonneau, Wilhem Harvey - 2024
